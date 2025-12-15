@@ -55,8 +55,7 @@ A multi-feature AI-powered web application offering content generation and image
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=au8778166&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=au8778166&theme=tokyonight" />
-</p>
+  
 
 ---
 
