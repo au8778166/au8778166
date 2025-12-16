@@ -72,6 +72,10 @@ A multi-feature AI-powered web application offering content generation and image
   <a href="https://www.linkedin.com/in/abhishek-kumar-upadhyay-bb73a928a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:au8778166@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
